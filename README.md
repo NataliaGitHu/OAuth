@@ -16,6 +16,7 @@
 9.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesGithub.yaml`;
 10.	Put a Client ID and a Client Secret into this file;
 11.	Change a callback URL to <your URL> +/api/1/oauth/github/;
+     
     ```
   ---
 pullRequestsEnabledInstallId: .+
@@ -53,7 +54,7 @@ apps:
 7.	Click "Save";
 8.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesBitbucket.yaml`;
 9.	Сopy a Key and a Secret and put it into this file;
-  ```
+    ```
   ---
 pullRequestsEnabledInstallId: .+
 apps:
@@ -78,7 +79,7 @@ apps:
       repoWritePullWrite:
         oauthClientId: Qgt5rjpY3NarMEmq24
         oauthSecret: M5jeq25uCMEjDsvSsZGAAPTtenpxsTKW
-  ```
+  ```  
 
 10.	Save the changes.
 
@@ -98,7 +99,7 @@ apps:
 6.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesVSTS.yaml`;
 7.	Copy an App ID and a Client Secret and put it into this file;
 8.	Change a callback URL to <your URL> +/api/1/oauth/vsts/;
-  ```
+    ```
   ---
 pullRequestsEnabledInstallId: .+
 apps:
@@ -112,7 +113,7 @@ apps:
     oauthSecret: GGEt2p38bafS5ApGWm8Qq5LpF7EByDPq
     callbackUrl: https://devinfo.bigbrassband.com/api/1/oauth/vsts/
     scope: vso.build vso.code_write vso.release
-  ```
+  ```  
 
 9.	Save the changes.
 
