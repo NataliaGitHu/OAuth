@@ -47,10 +47,11 @@ apps:
 6.	Fill in all required text fields:  
 *Callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/bitbucketorg/*  
 *The required permissions:*  
-* *Projects Read*  
-* *Repositories Write* 
-* *Pull requests Write*  
-* *Webhooks Read and write*
+* *Projects: Read*  
+* *Repositories: Write* 
+* *Pull requests: Write*  
+* *Webhooks: Read and write*
+* *Pipelines: Read*
 7.	Click "Save";
 8.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesBitbucket.yaml`;
 9.	Сopy a Key and a Secret and put it into this file;
