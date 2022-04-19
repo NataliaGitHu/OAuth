@@ -117,5 +117,5 @@ apps:
     callbackUrl: https://devinfo.bigbrassband.com/api/1/oauth/vsts/
     scope: vso.build vso.code_write vso.release
   ```  
-
+ 
 9.	Save the changes.
