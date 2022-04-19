@@ -43,7 +43,7 @@
 ##  Microsoft
 
 1.	Sign in to your <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">VSTS</a> account;
-2.	Go to <a href="https://aex.dev.azure.com/me?mkt=en-US&campaign=o~msft~old~vsts~profile" target="_blank">VSTS profile</a> page.
+2.	Go to <a href="https://aex.dev.azure.com/me?mkt=en-US&campaign=o~msft~old~vsts~profile" target="_blank">VSTS profile</a> page;
 3.	Сlick "Create new application";
 4.	Fill in all required text-fields:  
 *Authorization callback URL = <your URL> + /api/1/oauth/vsts*  
