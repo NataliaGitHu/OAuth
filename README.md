@@ -40,7 +40,7 @@ apps:
 
 
 1.	Sign in to your <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> account;
-2.	Сlick one of the workspaces;
+2.	Сlick one of the workspaces;  
 3.	Click "Settings"; ![Add-consumer](images/Settings-Bitbucket.png)  
 4.	Click "OAuth consumers"; ![Add-consumer](images/OAuth%20consumers.png)  
 5.	Click "Add consumer";  ![Add-consumer](images/Add%20consumer.png)  
