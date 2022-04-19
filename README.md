@@ -94,9 +94,9 @@ apps:
 4.	Fill in all required text-fields:  
 *Authorization callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/vsts*  
 *Authorized scopes:*  
-  **Build (read)*
-  **Code (read and write)*  
-  **Release (read)*
+  * *Build (read)*
+  * *Code (read and write)*  
+  * *Release (read)*
 5.	Click "Create application";
 6.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesVSTS.yaml`;
 7.	Copy an App ID and a Client Secret and put it into this file;
