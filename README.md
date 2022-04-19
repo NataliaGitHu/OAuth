@@ -43,7 +43,7 @@ apps:
 2.	Сlick one of the workspaces;
 3.	Click "Settings";
 4.	Click "OAuth consumers";
-5.	Click "Add consumer";
+5.	Click "Add consumer";  ![Add-consumer](images/Add%20consumer.png)
 6.	Fill in all required text fields:  
 *Callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/bitbucketorg/*  
 *The required permissions:*  
