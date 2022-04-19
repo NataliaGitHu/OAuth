@@ -41,12 +41,10 @@ apps:
 
 1.	Sign in to your <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> account;
 2.	Сlick one of the workspaces;    
-3.	Click "Settings";  
-4.	![Add-consumer](images/Settings-Bitbucket.png)  
-5.	Click "OAuth consumers";  
-6.	![Add-consumer](images/OAuth-consumers.png)  
-7.	Click "Add consumer";  ![Add-consumer](images/Add%20consumer.png)  
-8.	Fill in all required text fields:  
+3.	Click "Settings";  	![Add-consumer](images/Settings-Bitbucket.png)  
+4.	Click "OAuth consumers";	![Add-consumer](images/OAuth-consumers.png)  
+5.	Click "Add consumer";  ![Add-consumer](images/Add%20consumer.png)  
+6.	Fill in all required text fields:  
 *Callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/bitbucketorg/*  
 *The required permissions:*  
 * *Projects: Read*  
