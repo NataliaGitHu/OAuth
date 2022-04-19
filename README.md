@@ -54,7 +54,7 @@ apps:
 7.	Click "Save";
 8.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesBitbucket.yaml`;
 9.	Сopy a Key and a Secret and put it into this file;
-       
+         
      ```
      ---
 pullRequestsEnabledInstallId: .+
@@ -80,7 +80,7 @@ apps:
       repoWritePullWrite:
         oauthClientId: Qgt5rjpY3NarMEmq24
         oauthSecret: M5jeq25uCMEjDsvSsZGAAPTtenpxsTKW
-  ```  
+  ```    
 
 10.	Save the changes.
 
