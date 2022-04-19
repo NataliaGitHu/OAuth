@@ -5,10 +5,10 @@
 
 
 1.	Sign in to your <a href="https://github.com/" target="_blank">Github</a> account;
-2.	Click "Settings";
-3.	Click "Developer Settings";
+2.	Click "Settings"; ![Settings](images/Settings-Github.png)
+3.	Click "Developer Settings"; ![Developer Settings](images/Developer-settings.png)
 4.	Switch to OAuth apps;
-5.	Click "New OAuth app";
+5.	Click "New OAuth app"; ![New OAuth app](images/New-OAuth-App%20.png)
 6.	Fill in all required text-field;  
 *Authorization callback URL = <YOUR_APP_BASE_URL> +/api/1/oauth/github/*;
 7.	Click "Register application";
@@ -41,8 +41,8 @@ apps:
 
 1.	Sign in to your <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> account;
 2.	Сlick one of the workspaces;
-3.	Click "Settings";
-4.	Click "OAuth consumers";
+3.	Click "Settings"; ![Add-consumer](images/Add%20consumer.png)
+4.	Click "OAuth consumers"; ![Add-consumer](images/Add%20consumer.png)
 5.	Click "Add consumer";  ![Add-consumer](images/Add%20consumer.png)
 6.	Fill in all required text fields:  
 *Callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/bitbucketorg/*  
@@ -90,7 +90,7 @@ apps:
 
 1.	Sign in to your <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">VSTS</a> account;
 2.	Go to <a href="https://aex.dev.azure.com/me?mkt=en-US&campaign=o~msft~old~vsts~profile" target="_blank">VSTS profile</a> page;
-3.	Сlick "Create new application";
+3.	Сlick "Create new application"; ![Azure-CreateNewApplication](images/Azure-CreateNewApplication.png)
 4.	Fill in all required text-fields:  
 *Authorization callback URL = <YOUR_APP_BASE_URL> + /api/1/oauth/vsts*  
 *Authorized scopes:*  
