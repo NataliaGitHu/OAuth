@@ -17,8 +17,7 @@
 10.	Put a Client ID and a Client Secret into this file;
 11.	Change a callback URL to <your URL> +/api/1/oauth/github/;
      
-    ```
-  ---
+```---
 pullRequestsEnabledInstallId: .+
 apps:
   GitCloud:
@@ -31,7 +30,7 @@ apps:
     oauthSecret: fdaa3e1b5e4f7244b3ae888739d74937b2839bc9
     callbackUrl: https://devinfo.bigbrassband.com/api/1/oauth/github/
     scope: repo
-  ```
+ ```
   
 12.	Save the changes.
 
