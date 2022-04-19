@@ -9,7 +9,7 @@
 3.	Click "Developer Settings";
 4.	Switch to OAuth apps;
 5.	Click "New OAuth app";
-6.	Fill in all required text-field  
+6.	Fill in all required text-field;  
 *Authorization callback URL = <your URL> +/api/1/oauth/github/*;
 7.	Click "Register application";
 8.	Copy a Client ID and a Client Secret;
