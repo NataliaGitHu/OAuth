@@ -115,7 +115,7 @@ apps:
     oauthClientId: SJ9LbSYYpGHTvfNeB6
     oauthSecret: GGEt2p38bafS5ApGWm8Qq5LpF7EByDPq
     callbackUrl: https://devinfo.bigbrassband.com/api/1/oauth/vsts/
-    scope: vso.build vso.code_write vso.release
+    scope: vso.build%20vso.code_write%20vso.release
   ```  
  
 9.	Save the changes.
