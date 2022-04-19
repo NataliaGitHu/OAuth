@@ -15,7 +15,7 @@
 8.	Copy a Client ID and a Client Secret;
 9.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesGithub.yaml`;
 10.	Put a Client ID and a Client Secret into this file;
-11.	Change a callback URL to <your URL> +/api/1/oauth/github/;
+11.	Change a callback URL to <YOUR_APP_BASE_URL> +/api/1/oauth/github/;
      
 ```
 ---
@@ -100,7 +100,7 @@ apps:
 5.	Click "Create application";
 6.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesVSTS.yaml`;
 7.	Copy an App ID and a Client Secret and put it into this file;
-8.	Change a callback URL to <your URL> +/api/1/oauth/vsts/;  
+8.	Change a callback URL to <YOUR_APP_BASE_URL>> +/api/1/oauth/vsts/;  
   
  ```
 ---
