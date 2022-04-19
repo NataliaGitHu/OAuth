@@ -56,7 +56,6 @@ apps:
 9.	Сopy a Key and a Secret and put it into this file;
          
      ```
-     ---
 pullRequestsEnabledInstallId: .+
 apps:
   GitCloud:
