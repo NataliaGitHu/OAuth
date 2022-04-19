@@ -55,7 +55,8 @@ apps:
 8.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesBitbucket.yaml`;
 9.	Сopy a Key and a Secret and put it into this file;
          
-     ```
+```
+---
 pullRequestsEnabledInstallId: .+
 apps:
   GitCloud:
