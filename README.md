@@ -5,7 +5,7 @@
 
 
 1.	Sign in to your <a href="https://github.com/" target="_blank">Github</a> account;
-2.	Click "Settings"; ![Settings](images/Settings-Github.png)
+2.	Click "Settings"; ![Settings](images/Settings-GitHub%20.png)
 3.	Click "Developer Settings"; ![Developer Settings](images/Developer-settings.png)
 4.	Switch to OAuth apps;
 5.	Click "New OAuth app"; ![New OAuth app](images/New-OAuth-App%20.png)
