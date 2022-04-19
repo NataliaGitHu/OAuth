@@ -17,7 +17,8 @@
 10.	Put a Client ID and a Client Secret into this file;
 11.	Change a callback URL to <your URL> +/api/1/oauth/github/;
      
-```---
+```
+---
 pullRequestsEnabledInstallId: .+
 apps:
   GitCloud:
@@ -53,8 +54,9 @@ apps:
 7.	Click "Save";
 8.	Open the `/jiragitcloud/docs/server-specific-conf/sourcesBitbucket.yaml`;
 9.	Сopy a Key and a Secret and put it into this file;
-    ```
-  ---
+       
+     ```
+     ---
 pullRequestsEnabledInstallId: .+
 apps:
   GitCloud:
