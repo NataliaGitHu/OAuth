@@ -2,7 +2,7 @@
 *Credentials should be different for GitCloud and DevInfo applications./
  
 ##  GitHub.com
-
+h
 
 1.	Sign in to your <a href="https://github.com/" target="_blank">Github</a> account;
 2.	Click "Settings"; ![Settings](images/Settings-GitHub%20.png)
