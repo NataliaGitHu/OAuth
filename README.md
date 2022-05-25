@@ -1,6 +1,6 @@
 # How to register the OAuth apps
 *Credentials should be different for GitCloud and DevInfo applications./
-
+ 
 ##  GitHub.com
 
 
